@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou o Victor Farias 👋
 
-<!--
-**victorfariasw/victorfariasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Sou um Desenvolvedor Frontend apaixonado por criar interfaces de usuário interativas, responsivas e visualmente atraentes. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades para entregar as melhores experiências para os usuários.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades Técnicas
+
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+
+* **Linguagens & Frameworks/Bibliotecas:**
+    * JavaScript (ES6+)
+    * TypeScript
+    * Vue.js
+    * React.js
+    * Node.js
+* **Ferramentas de Versionamento:**
+    * Git
+    * GitHub
+* **Testes:**
+    * Jest
+    * Cypress
+    * Vitest
+* **Outras Ferramentas & Conceitos:**
+    * HTML5
+    * CSS3 (Sass/Less, Styled Components, Tailwind CSS)
+    * APIs RESTful
+    * Metodologias Ágeis (Scrum/Kanban)
+    * Design Responsivo
+
+## 🌱 No que estou trabalhando atualmente
+
+* Estou sempre buscando aprimorar meus conhecimentos em Frontend.
+* Desenvolvendo projetos pessoais para praticar e explorar novas ideias.
+  
+## 📫 Como me encontrar
+
+* **LinkedIn:** https://www.linkedin.com/in/victorfariasdev
+* **Email:** victorfarias.tv@gmail.com
+
+## ✨ Extras
+
+![Estatísticas do GitHub do Victor](https://github-readme-stats.vercel.app/api?username=victorfariasw&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfariasw&layout=compact&theme=radical&hide_border=true&count_private=true)
+
+---
+
+*Sinta-se à vontade para explorar meus repositórios e entrar em contato!* 😄

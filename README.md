@@ -38,11 +38,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 * **LinkedIn:** https://www.linkedin.com/in/victorfariasdev
 * **Email:** victorfarias.tv@gmail.com
 
-## ✨ Extras
-
-![Estatísticas do GitHub do Victor](https://github-readme-stats.vercel.app/api?username=victorfariasw&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfariasw&layout=compact&theme=radical&hide_border=true&count_private=true)
-
 ---
 
 *Sinta-se à vontade para explorar meus repositórios e entrar em contato!* 😄
